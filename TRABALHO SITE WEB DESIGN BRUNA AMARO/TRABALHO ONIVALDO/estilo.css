@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'idroid';
+    src: url(fontes/idroid.otf);
+}
+
+body {
+    background-color: #ffc3cc;
+}
+
+.topo {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:#ffc3cc;
+    text-align: center;
+}
+
+#menu {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.imagem {
+    text-align: center;
+}
+
+.video {
+    text-align: center;
+}
+
+.titulo {
+    font-family: 'idroid';
+    background-image: linear-gradient(to left, white, #6ac425, #EF798A);
+}
+
+img {
+    background-color: white;
+}
+
+.conteudo {
+    font-family: 'Times New Roman', Times, serif;
+}
